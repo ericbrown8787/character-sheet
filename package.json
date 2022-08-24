@@ -1,0 +1,25 @@
+{
+  "name": "character-sheet",
+  "version": "1.0.0",
+  "description": "",
+  "default": "./src/index.html",
+  "scripts": {
+    "test": "npx parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericbrown8787/character-sheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericbrown8787/character-sheet/issues"
+  },
+  "homepage": "https://github.com/ericbrown8787/character-sheet#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
